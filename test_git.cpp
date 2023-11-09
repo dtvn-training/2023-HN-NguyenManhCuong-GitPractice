@@ -1,12 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+double add_2_number(double a, double b) {
+    return a + b;
+}
+double add_3_number(double a, double b, double c) {
+    return a + b + c;
+}
 int main() {
-    int x = 150;
-    int y = 222;
-    cin >> sum;
-    if (sum == x + y) {
-        cout << "success" << endl;
-    } else {
-        cout << "fail" << endl;
-    }
 }
